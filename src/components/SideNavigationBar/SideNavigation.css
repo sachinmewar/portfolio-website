@@ -1,0 +1,8 @@
+.sideNavigation-container {
+  margin-top: 0;
+  padding: 0;
+  height: 44rem;
+  width: 20rem;
+  background-color: rgba(0, 0, 0, 0.8);
+  position: fixed;
+}
