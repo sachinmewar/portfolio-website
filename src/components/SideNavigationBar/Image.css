@@ -1,10 +1,13 @@
-/* .profilePic-container {
- 
-} */
-
-.profilePic-container img {
-  margin: 2rem 4.5rem;
+.profilePic-container {
+  display: inline;
   height: 11rem;
   width: 11rem;
+}
+
+.profilePic-container img {
+  display: inherit;
+  margin: 2rem 4.5rem;
+  height: inherit;
+  width: inherit;
   border-radius: 80px;
 }
