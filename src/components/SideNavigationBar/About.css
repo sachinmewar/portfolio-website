@@ -1,0 +1,25 @@
+.about-container {
+  border: solid;
+  text-align: center;
+  margin: 2rem 40rem;
+  width: 40rem;
+  font-size: large;
+  font-weight: 600;
+}
+
+.about-container #about-me {
+  padding: 1rem 2rem;
+}
+
+.about-container img {
+  width: 12rem;
+  height: 12rem;
+  border-radius: 60px;
+  margin: 1rem 2rem;
+  float: left;
+}
+
+.about-container #details {
+  margin: 2rem 2rem;
+  padding: 1rem;
+}
