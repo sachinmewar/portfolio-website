@@ -1,0 +1,10 @@
+/* .profilePic-container {
+ 
+} */
+
+.profilePic-container img {
+  margin: 2rem 4.5rem;
+  height: 11rem;
+  width: 11rem;
+  border-radius: 80px;
+}
