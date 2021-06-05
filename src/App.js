@@ -1,11 +1,11 @@
-import Header from './components/Header/Header';
-import SideNavigation from './components/NavigationBar/SideNavigation'
-
+import SideNavigation from './components/SideNavigationBar/SideNavigation'
+import About from './components/SideNavigationBar/About.js'
 const App = () => {
   return (
     <div>
-      <Header />
       <SideNavigation />
     </div>
   );
 }
+
+export default App;
